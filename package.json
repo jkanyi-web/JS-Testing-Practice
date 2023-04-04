@@ -1,0 +1,23 @@
+{
+  "name": "js-testing-practice",
+  "version": "1.0.0",
+  "description": "<a name=\"readme-top\"></a>",
+  "main": "test1.js",
+  "scripts": {
+    "test": "jest --coverage --watch-all"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jkanyi-web/JS-Testing-Practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jkanyi-web/JS-Testing-Practice/issues"
+  },
+  "homepage": "https://github.com/jkanyi-web/JS-Testing-Practice#readme",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
