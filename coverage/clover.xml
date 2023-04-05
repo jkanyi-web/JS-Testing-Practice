@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1680617204115" clover="3.2.0">
-  <project timestamp="1680617204115" name="All files">
-    <metrics statements="9" coveredstatements="8" conditionals="4" coveredconditionals="3" methods="2" coveredmethods="2" elements="15" coveredelements="13" complexity="0" loc="9" ncloc="9" packages="1" files="2" classes="2"/>
+<coverage generated="1680667158182" clover="3.2.0">
+  <project timestamp="1680667158182" name="All files">
+    <metrics statements="22" coveredstatements="20" conditionals="6" coveredconditionals="4" methods="8" coveredmethods="8" elements="36" coveredelements="32" complexity="0" loc="22" ncloc="22" packages="1" files="4" classes="4"/>
     <file name="test1.js" path="C:\Users\Administrator\OneDrive\Desktop\Microverse\JS-Testing-Practice\test1.js">
       <metrics statements="7" coveredstatements="6" conditionals="4" coveredconditionals="3" methods="1" coveredmethods="1"/>
       <line num="2" count="1" type="stmt"/>
@@ -14,6 +14,25 @@
     </file>
     <file name="test2.js" path="C:\Users\Administrator\OneDrive\Desktop\Microverse\JS-Testing-Practice\test2.js">
       <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
+    </file>
+    <file name="test3.js" path="C:\Users\Administrator\OneDrive\Desktop\Microverse\JS-Testing-Practice\test3.js">
+      <metrics statements="10" coveredstatements="9" conditionals="2" coveredconditionals="1" methods="5" coveredmethods="5"/>
+      <line num="5" count="12" type="stmt"/>
+      <line num="6" count="12" type="stmt"/>
+      <line num="9" count="12" type="stmt"/>
+      <line num="11" count="12" type="stmt"/>
+      <line num="13" count="12" type="stmt"/>
+      <line num="15" count="12" type="stmt"/>
+      <line num="16" count="3" type="cond" truecount="1" falsecount="1"/>
+      <line num="17" count="0" type="stmt"/>
+      <line num="19" count="3" type="stmt"/>
+      <line num="23" count="1" type="stmt"/>
+    </file>
+    <file name="test4.js" path="C:\Users\Administrator\OneDrive\Desktop\Microverse\JS-Testing-Practice\test4.js">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="1" count="1" type="stmt"/>
       <line num="2" count="1" type="stmt"/>
       <line num="5" count="1" type="stmt"/>
     </file>

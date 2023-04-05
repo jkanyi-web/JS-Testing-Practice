@@ -20,5 +20,4 @@ class Calculator {
   };
 }
 
-const calculator = new Calculator(10, 10);
-console.log(calculator.add()); // logs 20
+module.exports = Calculator;
